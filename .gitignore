@@ -1,0 +1,19 @@
+# Claude / AI agent artifacts
+.claude/
+.claude/
+*.output
+tool-results/
+tasks/
+plans/
+projects/
+METHODOLOGY.md
+
+# OS files
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# Temp / build artifacts
+*.tmp
+*.log
+gen_readmes.ps1
